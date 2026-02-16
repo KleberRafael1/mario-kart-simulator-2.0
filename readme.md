@@ -88,6 +88,6 @@ Inspiração: clássicos do **Mario Kart**, mas com lógica de **jogo de dados**
 
 ## 🚀 Preview
 
-![Corrida GIF](docs/race-preview.gif)
+![Corrida GIF](docs/tela.png)
 
 Divirta-se e tente bater o computador! 🏁
