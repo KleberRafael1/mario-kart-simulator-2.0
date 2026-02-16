@@ -35,6 +35,12 @@ body {
     color: #e63946;
 }
 
+.header h5 {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 6px;    
+}
+
 .header p {
     color: #555;
     margin-top: 6px;
@@ -64,6 +70,14 @@ select {
 .start-race {
     text-align: center;
     margin-bottom: 20px;
+}
+
+.autor{
+    font-size: 0.9rem;
+    text-align: center;  
+    color: #555;
+    position: relative;
+    top: 35px;
 }
 
 button {
@@ -263,6 +277,5 @@ button:hover {
     width: 140px; /* ajusta o tamanho do GIF como quiser */
     height: auto;
     margin-top: 20px; /* desce o GIF em relação ao texto */}
-
 
 
